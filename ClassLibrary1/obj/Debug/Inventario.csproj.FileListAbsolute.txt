@@ -1,0 +1,5 @@
+c:\users\mgonzalez.redmincivil\documents\visual studio 2015\Projects\ServicesInventario\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\mgonzalez.redmincivil\documents\visual studio 2015\Projects\ServicesInventario\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\mgonzalez.redmincivil\documents\visual studio 2015\Projects\ServicesInventario\ClassLibrary1\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+c:\users\mgonzalez.redmincivil\documents\visual studio 2015\Projects\ServicesInventario\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\mgonzalez.redmincivil\documents\visual studio 2015\Projects\ServicesInventario\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
